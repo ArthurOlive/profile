@@ -106,7 +106,7 @@ const Home: NextPage = () => {
       
       <footer className='bg-violet-800/10 h-[100px] flex justify-center items-center'>
         <div className='container relative flex flex-col items-center gap-2 md:block'>
-          <span className='text-zinc-200 text-sm'>Design and Developement by Arthur de Oliveira</span>
+          <span className='text-zinc-200 text-sm'>Designed and Developed by Arthur de oliveira</span>
           <div className='md:absolute md:top-0 md:left-1/2 md:-translate-x-1/2 text-white text-2xl flex items-center gap-2'>
             <FaGithub/>
             <FaLinkedin/>
